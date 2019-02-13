@@ -3,6 +3,7 @@
   background-image: url('../img/bg_hero.png');
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
   height: 50em;
 }
 a {
@@ -14,4 +15,7 @@ h1,h2,h3,h4,h5,h6{
 }
 p{
   font-family: 'Indie Flower', cursive;
+}
+footer{
+  background-color: #DF0101;
 }
