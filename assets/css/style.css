@@ -5,3 +5,7 @@
   background-size: cover;
   height: 50em;
 }
+a {
+  color:inherit;
+  text-decoration: none;
+ }
